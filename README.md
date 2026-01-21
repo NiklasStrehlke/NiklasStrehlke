@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Niklas Strehlke
+# 👋 Hi, ich bin Niklas
 
 Ich bin ein Technik-Nerd mit großer Leidenschaft für **Automatisierungen aller Art**, **Softwareentwicklung**, **Mikroelektronik** und **DIY-Projekten**.
 Ich lerne schnell, bin autodidaktisch veranlagt und liebe es, mir neue Technologien anzueignen und zu meistern.
@@ -30,4 +30,4 @@ Egal ob **SPS-Programmierung mit TIA Portal**, **Python-Projekte für den Alltag
 - Autodidaktisches Lernen & technische Neugier 
 
 ## 📧 Kontakt  
-Für Rückfragen zu meiner Person oder Anmerkungen/Anregungen zu meinem Profil, kannst du mir gerne direkt auf GitHub schreiben oder alternativ per E-Mail an n.strehlke@kabelmail.de
+Für Rückfragen zu meiner Person oder Anmerkungen/Anregungen zu meinem Profil, kannst du mir gerne direkt auf GitHub schreiben
