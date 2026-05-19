@@ -28,7 +28,7 @@ Egal ob **SPS-Programmierung mit TIA Portal**, **Python-Projekte für den Alltag
 - Linux/Ubuntu (Hardening, Verwaltung, Automation)
 - Programmierung von Microcontrollern (ESP32, MicroPython, MQTT)
 - Smart Home mit Home Assistant, Z-Wave, Zigbee und Matter over Thread
-- Projekte wie Plex Media Server oder OpenMediaVault auf dem Raspberry Pi
+- Projekte wie Plex Media Server, OpenMediaVault oder urBackup auf dem Raspberry Pi
 - Autodidaktisches Lernen & technische Neugier 
 
 ## 📧 Kontakt  
