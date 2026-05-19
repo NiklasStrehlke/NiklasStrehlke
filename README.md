@@ -15,6 +15,8 @@ Egal ob **SPS-Programmierung mit TIA Portal**, **Python-Projekte für den Alltag
   ### 🐍 Python-Tools & GUI-Anwendungen  
   Eigenentwickelte Tools wie meine [QuizApp](https://github.com/NiklasStrehlke/QuizApp) oder mein [VehicleManager](https://github.com/NiklasStrehlke/VehicleManager), bei denen ich gezielt OOP, Services und GUI-Design trainiert habe.
 
+  Umfangreiche Desktopanwendungen nach modernisierter MVC-Architektur wie mein [3D Print Calculator](https://github.com/NiklasStrehlke/3d-print-calculator), welcher als professionell strukturierte PySide6-Anwendung entwickelt wird und moderne Konzepte wie Services, Repository-Pattern, Dependency Injection, Datenbankanbindung sowie eine klare Trennung von Zuständigkeiten vereint.
+
   ### 🌐 Smart Home & ESP32-Projekte *(in Vorbereitung)*  
   Entwicklung eigener Smartdevices mit MicroPython (später C++) sowie Smart-Home-Module mit MicroPython/C++ auf Basis von Matter & Thread.
 
@@ -22,7 +24,7 @@ Egal ob **SPS-Programmierung mit TIA Portal**, **Python-Projekte für den Alltag
 
 - SPS-Programmierung (TIA Portal, S7-1200/1500, ABB Automation Builder, ABB AC500, GRAFCET, Visualisierung)
 - Roboterprogrammierung mit ABB RobotStudio
-- Python (OOP, GUIs mit PyQt5, CLI-Tools, Service-Tools)
+- Python (OOP, GUIs mit PyQt6, CLI-Tools, Service-Tools)
 - Linux/Ubuntu (Hardening, Verwaltung, Automation)
 - Programmierung von Microcontrollern (ESP32, MicroPython, MQTT)
 - Smart Home mit Home Assistant, Z-Wave, Zigbee und Matter over Thread
