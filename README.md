@@ -17,7 +17,7 @@ Egal ob **SPS-Programmierung mit TIA Portal**, **Python-Projekte für den Alltag
 
   Umfangreiche Desktopanwendungen nach modernisierter MVC-Architektur wie mein [3D Print Calculator](https://github.com/NiklasStrehlke/3d-print-calculator), welcher als professionell strukturierte PySide6-Anwendung entwickelt wird und moderne Konzepte wie Services, Repository-Pattern, Dependency Injection, Datenbankanbindung sowie eine klare Trennung von Zuständigkeiten vereint.
 
-  ### 🌐 Smart Home & ESP32-Projekte *(in Vorbereitung)*  
+  ### 🌐 Smart Home & ESP32-Projekte
   Entwicklung eigener Smartdevices mit MicroPython (später C++) sowie Smart-Home-Module mit MicroPython/C++ auf Basis von Matter & Thread.
 
 ## 🧩 Skills & Interessen (Auszug)
